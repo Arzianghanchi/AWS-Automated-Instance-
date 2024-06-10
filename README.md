@@ -1,4 +1,4 @@
-# AWS-Automated-Instance-
+# AWS-Automated-Instance-Restart
 
 1. Verifying Prerequisites:
 Open the AWS Management Console. Search for "EC2 Instances" and ensure your instance is healthy.
