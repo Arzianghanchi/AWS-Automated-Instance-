@@ -11,7 +11,7 @@ Click on the Targets tab. Enter your instance ID (i-01234567890abcdef) in the se
 Click on the Document name field and select AWS-RestartEC2Instance.
 Review the document details (it restarts the instance) and click the orange Run button.
 
-3.Simulating the Restart:
+3. Simulating the Restart:
 A confirmation popup appears. Click Run to initiate the restart command.
 In the Run Command history pane, you'll see the execution status. It might take a few minutes for the instance to restart.
 3. Verifying the Restart (Optional):
