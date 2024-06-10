@@ -2,7 +2,7 @@
 
 1. Verifying Prerequisites:
 Open the AWS Management Console. Search for "EC2 Instances" and ensure your instance is healthy.
-Check SSM Agent: SSH into your instance and run systemctl status amazon-ssm-agent (Linux) or check "Amazon EC2 SSM Agent" status in services.msc (Windows). If not running, follow AWS documentation to install it.
+Check SSM Agent: SSH into your instance and run systemctl status amazon-ssm-agent (Linux) or check "Amazon EC2 SSM Agent" status in services.msc (Windows). If not running, Install Amazon EC2 SSM Agent" using AWS documentation.
 
 2. Using the Pre-built Document:
 Navigate to the AWS Systems Manager service.
