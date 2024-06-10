@@ -14,6 +14,6 @@ Review the document details (it restarts the instance) and click the orange Run 
 3. Simulating the Restart:
 A confirmation popup appears. Click Run to initiate the restart command.
 In the Run Command history pane, you'll see the execution status. It might take a few minutes for the instance to restart.
-3. Verifying the Restart (Optional):
 
+4. Verifying the Restart (Optional):
 Go back to the EC2 Instances service. After a successful restart, the instance status should change to "running."
