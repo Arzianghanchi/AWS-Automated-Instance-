@@ -49,7 +49,7 @@ Step 7 Configure the Runbook
 Step 8 Execute the Configured Runbook
 ![Runbook Execution](https://github.com/Arzianghanchi/AWS-Automated-Instance-Restart/assets/118063625/d853f1df-80d9-47d3-9b1f-f7911c8705dd)
 
-Status Of runbook
+Status of Automation
 ![Status runbook](https://github.com/Arzianghanchi/AWS-Automated-Instance-Restart/assets/118063625/bfbaa93f-d8b6-422a-9a37-1721d74f8cb7)
 
 Instace Stopped After Execution of runbook
